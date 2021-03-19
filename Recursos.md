@@ -4,6 +4,8 @@ Blender con Rigify
 
 Rigify es un Add-on para Blender que simplifica la creación de rigs
 Si ademas queremos que sea compatible con el sistema humanoid * [Rigify-To-Unity](https://github.com/AlexLemminG/Rigify-To-Unity) 
+Pros: Blender es gratuito, rigify te permite riggear cualquier modelo humanoide
+Contras: Al no ser un proceso automatizado requiere volver a trabajar desde 0 en cada modelo
 
 Recurso 2:
 
@@ -12,3 +14,14 @@ Blender + MB_Lab
 MB_Lab es un Add-on gratuito para la creación de personajes, q permite utilizar sistemas blend shapes para modificar la forma, viene con plantillas de personajes y un sistema de riggeo
 bastante completo
 [MB_Lab](https://mb-lab-community.github.io/MB-Lab.github.io/) 
+Pros: Tanto Blender como MB_Lab son gratuitos, los modelos generados son una buena base, tiene rig del cuerpo y de la cara
+Contras: Requiere aprender a usar el sistema MB_Lab, algunos workflows como exportar las texturas estan un poco escondidos entre tanto menu
+
+
+Recurso 3:
+Daz Studio
+Es un programa de creación de personajes, está pensado para ser utilizado junto con librerias de personajes, y assets que se adquieren desde su sistema.
+Pros: Facil de usar, el programa es gratuito
+Contras: Practicamente todos los assets son de pago
+[Daz Studio](https://www.daz3d.com/) 
+
