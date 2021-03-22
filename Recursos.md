@@ -25,3 +25,12 @@ Pros: Facil de usar, el programa es gratuito
 Contras: Practicamente todos los assets son de pago
 [Daz Studio](https://www.daz3d.com/) 
 
+Recurso 4:
+
+Make Human 
+Es un programa gratuito para crear personajes, q ya vienen rigeados
+Interesante para utilizar como base
+Pros: Es facil de utilizar
+Contras: Las caras son muy simples 
+[Make Human](http://www.makehumancommunity.org) 
+
