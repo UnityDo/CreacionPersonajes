@@ -34,3 +34,10 @@ Pros: Es facil de utilizar
 Contras: Las caras son muy simples 
 [Make Human](http://www.makehumancommunity.org) 
 
+Recurso 5:
+Mixamo
+Un sistema online que permite hacer rigg de forma automatica, importar animaciones y descargarse modelos
+Pros: Muy facil de usar, sistema automatico de rig
+Contras: Algunas animaciones estan tocadas, tienen la posición base cambiada
+Para prototipar el proyecto es ideal, por su rapidez
+[Mixamo](https://www.mixamo.com/#/) 
