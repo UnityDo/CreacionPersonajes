@@ -41,3 +41,13 @@ Pros: Muy facil de usar, sistema automatico de rig
 Contras: Algunas animaciones estan tocadas, tienen la posición base cambiada
 Para prototipar el proyecto es ideal, por su rapidez
 [Mixamo](https://www.mixamo.com/#/) 
+
+Recurso 6:
+Sketchfab se ha convertido en una de las mejores webs de modelos 3D, entre sus grandes ventajas está la posibilidad de visualizar la malla en el explorador, filtrar etc
+Pros: Muchos modelos descargables ,ojo comprobar siempre la licencia
+Contras: Hay muchos modelos de prueba, escaneados q no son operativos para videojuego.. la busqueda te puede llevar un buen rato
+Plus: Hay un plugin para importar directamente a unity con varias ventajas, un workflow mucho más agil
+https://assetstore.unity.com/packages/tools/input-management/sketchfab-for-unity-14302
+
+Particularmente me gustan las colecciones, ya que encontraras una selección de modelos
+[sketchfab](https://sketchfab.com/samanthakennedy90/collections/characters-free/) 
