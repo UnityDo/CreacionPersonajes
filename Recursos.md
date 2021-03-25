@@ -51,3 +51,12 @@ https://assetstore.unity.com/packages/tools/input-management/sketchfab-for-unity
 
 Particularmente me gustan las colecciones, ya que encontraras una selección de modelos
 [sketchfab](https://sketchfab.com/samanthakennedy90/collections/characters-free/) 
+
+Recurso 7:
+Asset Store de Unity
+En la pagina de recursos de unity podemos encontrar varios modelos de personajes gratuitos
+Pros: La compatibilidad directa con el sistema
+Contras: Hay mucho low poly, se echa de menos al menos un personaje realista
+
+Aqui puedes encontrar la "mascota" de Unity Unity Chan un modelo estilo Anime
+[UnityChan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)
