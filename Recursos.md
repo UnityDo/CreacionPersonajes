@@ -60,3 +60,11 @@ Contras: Hay mucho low poly, se echa de menos al menos un personaje realista
 
 Aqui puedes encontrar la "mascota" de Unity Unity Chan un modelo estilo Anime
 [UnityChan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)
+
+Recurso 8:
+Paquete de Unity
+Permite crear rigs ,es decir, controladores dentro de Unity pudiendo combinar animacion con controles por IK
+Permite visualizar el skeleto y reanimar dentro de Unity
+Pros: Viene a simplificar la forma de hacer control por IK, abriendo un abanico de posibilidades
+Contras: El workflow puede ser tedioso, le haria falta un sistema de automatización
+[Animation Rigg] https://docs.unity3d.com/Packages/com.unity.animation.rigging@0.2/manual/index.html
